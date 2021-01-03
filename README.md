@@ -2,7 +2,7 @@
 
 ## APLICATION DEVELOPED WITH DOCKER + STRAPI + POSTGRES
 
-:warning: API SRAPI IN THE PROJECT [LANDING PAGE](https://github.com/italo-lima/landing-page-nextjs)
+:warning: PROJECT STRAPI API [LANDING PAGE](https://github.com/italo-lima/landing-page-nextjs)
 
 ## Development
 
